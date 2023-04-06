@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1680773741 source:c:\users\acer\desktop\b'day dress\stack_linked\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<algorithm>
+	<chrono>
+

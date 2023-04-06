@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1680768382 source:c:\users\acer\desktop\b'day dress\stack_array\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<algorithm>
+	<chrono>
+
