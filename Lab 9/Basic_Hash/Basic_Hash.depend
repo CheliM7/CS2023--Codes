@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1683795261 source:e:\semester 2\dsa\in-class labs\in class lab 9\basic_hash\main.cpp
+	<cstring>
+	<string>
+	<iostream>
+
